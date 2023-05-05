@@ -24,6 +24,7 @@ I'm trying to open a mobile terraria server with Termux and Host by <a href="ser
 <img src="https://i.imgur.com/O1TLqtT.png">
 <hr>
 9. หากขึ้นว่า <code>Forwarding TCP conections from serveo.net:7777</code> ถือว่าเชื่อมต่อสำเร็จ <br>
+<img src="https://i.imgur.com/w3L8sfk.png">
 10. ต่อไปให้เข้าเกม Terraria ในมือถือของเรา แล้วเปิดเซิร์ฟเวอร์ด้วยการ Host จากเครื่องเรา และเวลาจะให้เพื่อนเชื่อมต่อ ให้ใช้ IP : <code>โดเมนที่เราตั้ง.serveo.net</code> Port : <code>7777</code> <br> ในตัวอย่างผมตั้งเป็น jothan เวลาเข้าเซิร์ฟเวอร์ก็ให้เพื่อนของคุณใส่ IP <code>jothan.serveo.net</code> Port : <code>7777</code>
 <br>
 
