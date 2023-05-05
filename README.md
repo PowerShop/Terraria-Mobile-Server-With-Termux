@@ -20,3 +20,6 @@ I'm trying to open a mobile terraria server with Termux and Host by <a href="ser
 - รันคำสั่ง <code>apt upgrade</code> แล้วให้ตอบ <code>Y</code> ทุกอัน
 - หลังจาก Upgrade เสร็จแล้ว ให้รันคำสั่ง <code>ssh -R โดนเมนของเรา:7777:localhost:7777 serveo.net</code> แล้ว <code>Enter</code> <br>
 - โดเมนของเรา = ตั้งอะไรก็ได้ สั้นหรือยาวก็ได้ เช่น <code>ssh -R jothan:7777:localhost:7777 serveo.net</code>
+- หลังจากรันคำสั่งไปแล้วจะขึ้นหน้าต่างดังภาพ ให้ตอบ <code>yes</code> แล้ว <code>Enter</code>
+<img src="https://i.imgur.com/mcro3rT.png">
+<hr>
