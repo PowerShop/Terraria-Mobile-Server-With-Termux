@@ -8,3 +8,5 @@ I'm trying to open a mobile terraria server with Termux.
 - หลังจากรันแล้วจะมีหน้าต่างปรากฏขึ้นมาดังภาพ ให้เอานิ้วจิ้มที่ <code>OK</code> หรือจะกด <code>Enter</code> บนแป้นพิมพ์มือถือก็ได้
 <img src="https://i.imgur.com/xmLradd.png">
 <hr>
+- เมื่อกด <code>OK</code> จะปรากฎอีกหน้าต่างขึ้นมาดังภาพ ให้เอานิ้วจิ้มเลือกที่ <codeMirror by BFSU></code> แล้วจิ้มที่ <code>OK</code>
+<img src="https://i.imgur.com/Awcz4ay.png">
