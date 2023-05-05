@@ -15,3 +15,4 @@ I'm trying to open a mobile terraria server with Termux and Host by <a href="ser
 <img src="https://i.imgur.com/Awcz4ay.png">
 <hr>
 - รันคำสั่ง <code>apt install openssh</code> แล้ว Console จะถามว่า <code>Do you want to continue? (Y/n)</code> ให้ตอบ <code>Y</code>
+<img src="https://i.imgur.com/J5GZnWA.png">
