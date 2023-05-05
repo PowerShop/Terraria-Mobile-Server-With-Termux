@@ -17,17 +17,17 @@ I'm trying to open a mobile terraria server with Termux and Host by <a href="ser
 - รันคำสั่ง <code>apt install openssh</code> แล้ว Console จะถามว่า <code>Do you want to continue? (Y/n)</code> ให้ตอบ <code>Y</code> แล้ว Enter
 <img src="https://i.imgur.com/J5GZnWA.png">
 <hr>
-- รันคำสั่ง <code>apt upgrade</code> แล้วให้ตอบ <code>Y</code> ทุกอัน
+- รันคำสั่ง <code>apt upgrade</code> แล้วให้ตอบ <code>Y</code> ทุกอัน <br>
 - หลังจาก Upgrade เสร็จแล้ว ให้รันคำสั่ง <code>ssh -R โดนเมนของเรา:7777:localhost:7777 serveo.net</code> แล้ว <code>Enter</code> <br>
-- โดเมนของเรา = ตั้งอะไรก็ได้ สั้นหรือยาวก็ได้ เช่น <code>ssh -R jothan:7777:localhost:7777 serveo.net</code>
-- หลังจากรันคำสั่งไปแล้วจะขึ้นหน้าต่างดังภาพ ให้ตอบ <code>yes</code> แล้ว <code>Enter</code>
+- โดเมนของเรา = ตั้งอะไรก็ได้ สั้นหรือยาวก็ได้ เช่น <code>ssh -R jothan:7777:localhost:7777 serveo.net</code> <br>
+- หลังจากรันคำสั่งไปแล้วจะขึ้นหน้าต่างดังภาพ ให้ตอบ <code>yes</code> แล้ว <code>Enter</code> <br>
 <img src="https://i.imgur.com/mcro3rT.png">
 <hr>
-- หากขึ้นว่า <font color="green">Forwarding TCP conections from serveo.net:7777</font> ถือว่าเชื่อมต่อสำเร็จ
+- หากขึ้นว่า <font color="green">Forwarding TCP conections from serveo.net:7777</font> ถือว่าเชื่อมต่อสำเร็จ <br>
 - ต่อไปให้เข้าเกม Terraria ในมือถือของเรา แล้วเปิดเซิร์ฟเวอร์ด้วยการ Host จากเครื่องเรา และเวลาจะให้เพื่อนเชื่อมต่อ ให้ใช้ IP : <code>โดเมนที่เราตั้ง.serveo.net</code> Port : <code>7777</code>
+<br>
 
-
-#English README
+# English README
 # Terraria Mobile Server with Termux
 
 This guide will help you set up a Terraria mobile server using Termux and host it with [Serveo.net](https://serveo.net/).
